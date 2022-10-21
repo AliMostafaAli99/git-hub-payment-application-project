@@ -1,0 +1,14 @@
+﻿  App.c
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Application\App.c(12,1): warning C4027: function declared without formal parameter list
+  server.c
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(24,7): warning C4013: 'strncmp' undefined; assuming extern returning int
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(70,51): warning C4047: 'function': 'ST_accountsDB_t **' differs in levels of indirection from 'ST_accountsDB_t [255]'
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(70,24): warning C4024: 'isBlockedAccount': different types for formal and actual parameter 1
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(78,41): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(78,31): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(97,33): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(97,23): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(104,30): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+E:\Udacity\Embedded C pro\Payment Application\Payment Application\Server\server.c(104,20): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+  Generating Code...
+  Payment Application.vcxproj -> E:\Udacity\Embedded C pro\Payment Application\x64\Debug\Payment Application.exe
